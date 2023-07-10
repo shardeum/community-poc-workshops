@@ -20,6 +20,10 @@ Since Shardeum is EVM-compatible, all existing EVM tools will be compatible out 
 
 > Note: Use Shardeum dappnet as it is specifically meant for the developers to test their dapps.
 
+## Code Tutorials :man_teacher:
+[ERC-20 Token](https://github.com/Shardeum/Shardeum-ProofOfCommunity-Workshops/tree/main/ERC%2020)  
+[Voting Dapp](https://github.com/Shardeum/Shardeum-ProofOfCommunity-Workshops/tree/main/Voting%20Dapp)  
+
 ## Resources :books:
 
 [Solidity Documentation](https://docs.soliditylang.org/en/v0.8.19/)   
@@ -37,8 +41,6 @@ Since Shardeum is EVM-compatible, all existing EVM tools will be compatible out 
 [Build and Deploy an ERC20 Vault on Shardeum](https://shardeum.org/blog/build-and-deploy-an-erc20-vault-on-shardeum/)  
 [SupraOracles Integration with Shardeum](https://shardeum.org/blog/supraoracles-integration-shardeum/)  
 You can also check out more such technical tutorials on the [Shardeum Blog](https://shardeum.org/blog/category/shardeum-tutorials/).
-
-## Tutorials :man_teacher:
 
 ### Storage :open_file_folder:
 [EVM Storage](https://docs.shardeum.org/storage/storage-evm)  
