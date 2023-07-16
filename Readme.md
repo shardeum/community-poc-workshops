@@ -23,7 +23,7 @@ Since Shardeum is EVM-compatible, all existing EVM tools will be compatible out 
 ### Shardeum Sphinx Dapp 1.X Network Details
 | Network Name                  | Shardeum Sphinx Dapp 1.X            |
 |-------------------------------|-------------------------------------|
-| New RPC URL                   | https://dapps.shardeum.org          |
+| RPC URL                   | https://dapps.shardeum.org          |
 | Chain ID                      | 8081                                |
 | Currency symbol (optional)    | SHM                                 |
 | Block Explorer URL (optional) | https://explorer-dapps.shardeum.org |
