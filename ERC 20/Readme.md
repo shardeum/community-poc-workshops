@@ -12,4 +12,4 @@
 
 - The mint function takes a uint256 parameter called _amount and allows users to mint additional tokens. It calls the _mint function with the sender address and the _amount parameter to mint the specified number of tokens and assign them to the user.
 
-- The burn function takes a uint256 parameter called _amount and allows users to burn their own tokens. It checks that the user has a sufficient balance using the require statement, then calls the _burn function to reduce the balance of the user by the specified amount.
+- The burn function takes a uint256 parameter called _amount and allows users to burn their own tokens. It checks that the user has a sufficient balance using the required statement, then calls the _burn function to reduce the balance of the user by the specified amount.
